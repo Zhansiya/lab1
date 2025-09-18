@@ -15,3 +15,11 @@ x = 5
 y = "Jhon"
 print(type(x))
 print(type(y)) 
+ 
+x = "Jhon"
+#is the same as
+x = 'Jhon'
+
+a = 4
+A = "Sally"
+#A will not overwrite a
