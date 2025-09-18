@@ -11,3 +11,7 @@ x = str(3) #x will be like a text '3'
 y = int(3) #y is just number 3
 z = float(3) #z will be 3.0
 
+x = 5
+y = "Jhon"
+print(type(x))
+print(type(y)) 
