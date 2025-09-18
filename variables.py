@@ -34,3 +34,8 @@ myvar2 = "John"
 myVariableName = "John" # Camel case
 MyVariableName = "John" #Pascal case
 my_variable_name = "John" #Snake case
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
